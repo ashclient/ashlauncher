@@ -1,0 +1,299 @@
+{
+  "name": "default",
+  "modules": {
+    "Chat Info": {
+      "enabled": false,
+      "x": 5,
+      "y": 5,
+      "settings": "{}"
+    },
+    "Lighting (Fullbright)": {
+      "enabled": true,
+      "x": 5,
+      "y": 5,
+      "settings": "{}"
+    },
+    "Memory": {
+      "enabled": true,
+      "x": 5,
+      "y": 5,
+      "settings": "{}"
+    },
+    "CPS": {
+      "enabled": true,
+      "x": 581,
+      "y": 491,
+      "settings": "{}"
+    },
+    "In Game Time": {
+      "enabled": false,
+      "x": 8,
+      "y": 53,
+      "settings": "{}"
+    },
+    "Voice Chat - Coming to a store near you in 2026": {
+      "enabled": false,
+      "x": 5,
+      "y": 5,
+      "settings": "{}"
+    },
+    "Chunk Info": {
+      "enabled": false,
+      "x": 5,
+      "y": 5,
+      "settings": "{}"
+    },
+    "ClientChat": {
+      "enabled": true,
+      "x": 5,
+      "y": 5,
+      "settings": "{}"
+    },
+    "Freelook": {
+      "enabled": false,
+      "x": 5,
+      "y": 5,
+      "settings": "{}"
+    },
+    "Custom Chat Box": {
+      "enabled": true,
+      "x": 242,
+      "y": 322,
+      "settings": "{}"
+    },
+    "Quickplay (Hypixel)": {
+      "enabled": false,
+      "x": 5,
+      "y": 5,
+      "settings": "{}"
+    },
+    "Coordinates": {
+      "enabled": false,
+      "x": 5,
+      "y": 5,
+      "settings": "{}"
+    },
+    "Bedwars Utils": {
+      "enabled": false,
+      "x": 0,
+      "y": 0,
+      "settings": "{}"
+    },
+    "Hypixel Utils": {
+      "enabled": true,
+      "x": 5,
+      "y": 5,
+      "settings": "{}"
+    },
+    "Ping": {
+      "enabled": false,
+      "x": 5,
+      "y": 30,
+      "settings": "{}"
+    },
+    "Reach Display": {
+      "enabled": true,
+      "x": 5,
+      "y": 200,
+      "settings": "{}"
+    },
+    "Hit Color": {
+      "enabled": true,
+      "x": 5,
+      "y": 5,
+      "settings": "{}"
+    },
+    "Custom Hitboxes": {
+      "enabled": false,
+      "x": 5,
+      "y": 5,
+      "settings": "{}"
+    },
+    "Armor HUD": {
+      "enabled": false,
+      "x": 5,
+      "y": 35,
+      "settings": "{}"
+    },
+    "Block Outline": {
+      "enabled": false,
+      "x": 5,
+      "y": 5,
+      "settings": "{}"
+    },
+    "Teammate Indicator": {
+      "enabled": true,
+      "x": 5,
+      "y": 5,
+      "settings": "{}"
+    },
+    "Scoreboard Editor": {
+      "enabled": true,
+      "x": 803,
+      "y": 197,
+      "settings": "{}"
+    },
+    "Crosshair": {
+      "enabled": false,
+      "x": 5,
+      "y": 5,
+      "settings": "{}"
+    },
+    "FPS": {
+      "enabled": true,
+      "x": 5,
+      "y": 5,
+      "settings": "{}"
+    },
+    "Server Info": {
+      "enabled": false,
+      "x": 5,
+      "y": 60,
+      "settings": "{}"
+    },
+    "1.7 Visuals": {
+      "enabled": false,
+      "x": 5,
+      "y": 5,
+      "settings": "{}"
+    },
+    "Direction": {
+      "enabled": false,
+      "x": 5,
+      "y": 5,
+      "settings": "{}"
+    },
+    "Potions": {
+      "enabled": false,
+      "x": 5,
+      "y": 40,
+      "settings": "{}"
+    },
+    "Hunger": {
+      "enabled": false,
+      "x": 5,
+      "y": 5,
+      "settings": "{}"
+    },
+    "Biome": {
+      "enabled": true,
+      "x": 862,
+      "y": 36,
+      "settings": "{}"
+    },
+    "Block Info": {
+      "enabled": false,
+      "x": 10,
+      "y": 80,
+      "settings": "{}"
+    },
+    "Keystrokes": {
+      "enabled": true,
+      "x": 333,
+      "y": 468,
+      "settings": "{}"
+    },
+    "BetterSounds": {
+      "enabled": false,
+      "x": 5,
+      "y": 5,
+      "settings": "{}"
+    },
+    "Zoom": {
+      "enabled": true,
+      "x": 5,
+      "y": 5,
+      "settings": "{}"
+    },
+    "Nametags": {
+      "enabled": false,
+      "x": 5,
+      "y": 5,
+      "settings": "{}"
+    },
+    "Item Info": {
+      "enabled": false,
+      "x": 5,
+      "y": 120,
+      "settings": "{}"
+    },
+    "Hurt Camera": {
+      "enabled": true,
+      "x": 5,
+      "y": 5,
+      "settings": "{}"
+    },
+    "Spotify HUD": {
+      "enabled": true,
+      "x": 11,
+      "y": 55,
+      "settings": "{}"
+    },
+    "Speed": {
+      "enabled": false,
+      "x": 5,
+      "y": 80,
+      "settings": "{}"
+    },
+    "Health": {
+      "enabled": false,
+      "x": 5,
+      "y": 5,
+      "settings": "{}"
+    },
+    "Fog Customizer": {
+      "enabled": false,
+      "x": 5,
+      "y": 5,
+      "settings": "{}"
+    },
+    "Tab Editor": {
+      "enabled": false,
+      "x": 5,
+      "y": 5,
+      "settings": "{}"
+    },
+    "Item Physics": {
+      "enabled": true,
+      "x": 5,
+      "y": 5,
+      "settings": "{}"
+    },
+    "Toggle Sprint": {
+      "enabled": true,
+      "x": 5,
+      "y": 5,
+      "settings": "{}"
+    },
+    "Nick Hider": {
+      "enabled": false,
+      "x": 5,
+      "y": 5,
+      "settings": "{}"
+    },
+    "Sprint Indicator": {
+      "enabled": true,
+      "x": 645,
+      "y": 489,
+      "settings": "{}"
+    },
+    "Motion Blur": {
+      "enabled": false,
+      "x": 5,
+      "y": 5,
+      "settings": "{}"
+    },
+    "Watermark": {
+      "enabled": true,
+      "x": 5,
+      "y": 5,
+      "settings": "{}"
+    },
+    "Clock (IRL)": {
+      "enabled": true,
+      "x": 5,
+      "y": 215,
+      "settings": "{}"
+    }
+  }
+}
